@@ -7,14 +7,14 @@ Credit card fraud is a significant problem affecting consumers and businesses wo
 
 # Key Features
 Utilized four machine learning algorithms for fraud detection:
-Logistic Regression
-Random Forest
-Support Vector Machine (SVM)
-KNN
+  Logistic Regression
+  Random Forest
+  Support Vector Machine (SVM)
+  KNN
 
 # Implemented four resampling techniques to address class imbalance:
 
-SMOTE (Synthetic Minority Over-sampling Technique)
-Random Under-sampling
-Tomek Links
-Near Miss
+  SMOTE (Synthetic Minority Over-sampling Technique)
+  Random Under-sampling
+  Tomek Links
+  Near Miss
